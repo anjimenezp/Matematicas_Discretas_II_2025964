@@ -2,4 +2,6 @@
 
 ## Branch: Talleres
 
-@ Taller RSA
+@ Taller composición funciones.
+
+@ Taller RSA.
