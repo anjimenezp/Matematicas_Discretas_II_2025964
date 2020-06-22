@@ -1,7 +1,7 @@
 # Matematicas_Discretas_II_2025964
 
 
-## Brach: Talleres
+## Branch: Talleres
 
 
 @ Taller composición funciones.
