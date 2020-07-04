@@ -1,9 +1,7 @@
 # Matematicas_Discretas_II_2025964
 
 
-## Branch: Talleres
+## Branch: Master
 
-
-@ Taller composición funciones.
 
 @ Taller RSA.
