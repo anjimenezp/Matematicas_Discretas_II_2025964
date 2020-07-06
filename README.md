@@ -6,4 +6,4 @@
 
 @ Taller RSA.
 
-@ Taller ecuaciones en diferencias. Número de Lucas.
+@ Taller ecuaciones en diferencias: Número de Lucas.
